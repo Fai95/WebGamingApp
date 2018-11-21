@@ -1,0 +1,52 @@
+﻿body {
+    background-color: rgb(218, 218, 218);
+    background-image: url(https://s3.amazonaws.com/cloudgamingmulitmediabucket/visual+/Background2.png);
+    background-repeat:repeat;
+    /*background-size: auto;*/
+    /*background-size:400px,500px;*/
+    text-align: center;
+}
+
+.lbl{
+    font-family:Tahoma
+}
+
+li{
+    text-align:right
+}
+.txtbx {
+    font-family: 'Segoe UI',Tahoma,Arial,Helvetica,sans-serif;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #fff;
+    border: 0;
+    padding: 10px 15px;
+    font-size: 14px;
+    display: inline-block;
+    margin-bottom: 18px;
+}
+
+.flat {
+    font-family: 'Segoe UI',Tahoma,Arial,Helvetica,sans-serif;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #fff;
+    border: 0;
+    /*padding: 10px 15px;*/
+    font-size: 14px;
+    display: inline-block;
+    margin-bottom: 18px;
+    height: 50px;
+    /*width: 100%;*/
+}
+
+#butn:hover, #butn:focus {
+background-color:lightgreen;
+color: black
+}
+
+#loginDiv {
+    margin: 0 auto;
+    padding: 0;
+    text-align: right;
+}
